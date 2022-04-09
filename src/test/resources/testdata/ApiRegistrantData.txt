@@ -1,0 +1,1 @@
+Registrant{firstName='Randell', lastName='Cruickshank', ssn='403-52-6421', login='tim.bartell', langKey='Eng', password='9$E*%2N%9', email='joel.kassulke@gmail.com'}, 
